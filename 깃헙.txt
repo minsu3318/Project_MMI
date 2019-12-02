@@ -1,0 +1,14 @@
+* 폴더명프로젝트와 동일하게 할것
+
+git init
+
+git remote add origin 주소.git  ---> 올릴곳 지정
+
+git add -A = 올릴파일 추가
+
+git pull origin master - 깃허브 파일 따오기
+
+git commit -m "할말" --- 업데이트 문구
+
+git push (--set-upstream) origin master = 처음 올릴시 업스트림 포함해서 입력할것
+				     깃허브에 추가된 파일 전송
