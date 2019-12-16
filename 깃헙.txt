@@ -12,3 +12,5 @@ git commit -m "할말" --- 업데이트 문구
 
 git push (--set-upstream) origin master = 처음 올릴시 업스트림 포함해서 입력할것
 				     깃허브에 추가된 파일 전송
+
+git pull origin master --allow-unrelated-histories ----- **긴급탈출용 코드 중요 중ㅇ요함
